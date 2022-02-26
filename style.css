@@ -1,0 +1,42 @@
+.navbar-custom {
+    background-color: rgba(0, 0, 0, 0.726);
+}
+
+header {
+    background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+    height: 450px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+ul li,
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 70px 0;
+}
+
+button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-size: 18px !important;
+    border-radius: 40px;
+    background-color: #ee0979 !important;
+    color: bisque !important;
+    border-radius: 40px !important;
+    width: 200px;
+    height: 70px;
+}
+
+.row {
+    padding: 30px;
+}
+
+footer {
+    background-color: black;
+    height: 100px;
+    padding: 37px;
+
+}
